@@ -11,6 +11,7 @@
 [![Vanilla JS](https://img.shields.io/badge/Vanilla-JS-ff5e7a?style=for-the-badge&labelColor=0a0e16)](#)
 [![Mobil](https://img.shields.io/badge/Mobil-Responsiv-ffb84d?style=for-the-badge&labelColor=0a0e16)](#)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Aktiv-7c8cff?style=for-the-badge&labelColor=0a0e16)](https://goshgarhasanov.github.io/snake-az/)
+[![Bir qəhvə al](https://img.shields.io/badge/%E2%98%95-Bir%20q%C9%99hv%C9%99%20al-ff7d5a?style=for-the-badge&labelColor=0a0e16)](https://kofe.al/@goshgarhasanov)
 
 </div>
 
