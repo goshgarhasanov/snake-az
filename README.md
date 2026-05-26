@@ -52,3 +52,11 @@ snake-az/
 ## License
 
 MIT © Goshgar Hasanzadeh
+
+---
+
+## ☕ Support
+
+If this project is useful to you, you can support me with a coffee — thank you!
+
+**[☕ kofe.al/goshgarhasanov](https://kofe.al/goshgarhasanov)**
